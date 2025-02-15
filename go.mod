@@ -1,4 +1,4 @@
-module github.com/rclone/rclone
+module github.com/setnomv/rclone
 
 go 1.21
 
